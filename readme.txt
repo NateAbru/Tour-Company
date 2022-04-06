@@ -1,1 +1,1 @@
-App demo for a tour company
+App Demo for a tour company
